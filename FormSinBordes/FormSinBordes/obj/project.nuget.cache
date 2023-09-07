@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "0+9wmKvKUBHTzuXN+mB7PdBSrsCfmCHzme3Iei6WQLWlwG3t33kl81vsl82JIQr5mIEw2L9frnpqjzkr7c29iw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\CGE\\Documents\\Source\\CPP\\FormSinBordes\\FormSinBordes\\FormSinBordes.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\CGE\\.nuget\\packages\\iconlib\\0.74.3\\iconlib.0.74.3.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "El paquete \"IconLib 0.74.3\" se restauró con \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1\" en lugar de la plataforma de destino del proyecto \"net6.0-windows7.0\". Puede que el paquete no sea totalmente compatible con el proyecto.",
+      "libraryId": "IconLib",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    }
+  ]
+}

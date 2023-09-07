@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "FormSinBordes/1.0.0": {
+        "dependencies": {
+          "IconLib": "0.74.3"
+        },
+        "runtime": {
+          "FormSinBordes.dll": {}
+        }
+      },
+      "IconLib/0.74.3": {
+        "runtime": {
+          "lib/net40/IconLib.dll": {
+            "assemblyVersion": "0.74.3.0",
+            "fileVersion": "0.74.3.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FormSinBordes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "IconLib/0.74.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-9N/qudfqMAcBhbk21UyTKIPi0CyRbZUeI0zenTxe4Lf9QX0svE05mFUtIeRhZabLSzHnwRo1u5moSOHaI6iYUg==",
+      "path": "iconlib/0.74.3",
+      "hashPath": "iconlib.0.74.3.nupkg.sha512"
+    }
+  }
+}
